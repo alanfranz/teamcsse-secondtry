@@ -12,7 +12,7 @@ hero_button:
   text: Fill out our survey
   href: "/fill-survey"
 show_news: false
-show_staff: true
+show_staff: false
 menu:
   navigation:
     name: Home

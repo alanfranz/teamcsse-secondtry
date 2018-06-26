@@ -3,10 +3,7 @@ title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: Misaligned Expectations
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+partners: []
 services:
 - description: Performing collaborative research and providing services to support
     the Health Sector.
@@ -22,8 +19,8 @@ textline: A CS6460 - Educational Technology - research project at the Georgia In
 hero_button:
   text: Fill out our survey
   href: "/fill-survey"
-show_news: true
-show_staff: false
+show_news: false
+show_staff: true
 menu:
   navigation:
     name: Home

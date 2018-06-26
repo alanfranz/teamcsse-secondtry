@@ -1,14 +1,14 @@
 ---
-title: Kellie Brewer
+title: Hasti Ghabel
 date: 2017-11-14 10:59:07 +0000
 role:
 - advisor
 - staff
-sub_heading: Professor
-thumbnail: "/uploads/2017/11/14/alejandra-higareda-295605.jpg"
-email: ''
+sub_heading: Graduate Student
+thumbnail: ''
+email: hghabel1@gatech.edu
 linkedin: ''
-layout: 'person'
+layout: person
 ---
 
 Kellie Brewer joined Belkirk in 2014 as a Professor of Engineering.

@@ -9,9 +9,4 @@ menu:
     identifier: _projects
     url: "/projects/"
     weight: 1
-  navigation:
-    name: Projects
-    identifier: _projects
-    url: "/projects/"
-    weight: 3
 ---

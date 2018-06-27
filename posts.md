@@ -10,9 +10,4 @@ menu:
     identifier: _posts
     url: "/posts/"
     weight: 2
-  navigation:
-    name: Posts
-    identifier: _posts
-    url: "/posts/"
-    weight: 4
 ---

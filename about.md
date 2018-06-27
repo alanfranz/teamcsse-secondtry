@@ -5,7 +5,7 @@ banner_image: "/uploads/2018/06/27/kyle-sudu-259392-unsplash(1).jpg"
 heading: The Team
 sub_heading: ''
 layout: landing-page
-textline: Who's behind this research initiative
+textline: Who's behind this?
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: false
 menu:

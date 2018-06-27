@@ -2,13 +2,12 @@
 title: About Us
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
-sub_heading: Ora et Labora
+heading: The Team
+sub_heading: ''
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: Who's behind this research initiative
 publish_date: 2017-12-01 04:00:00 +0000
-show_staff: true
+show_staff: false
 menu:
   navigation:
     name: About Us
@@ -16,7 +15,6 @@ menu:
     url: "/about/"
     weight: 3
 ---
+Hasti Ghabel is a Software Developer at a healthcare company. Currently, she is also studying master of Computer Science at Georgia Tech. She really enjoys learning new techniques and skills in her field of study!
 
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
-
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+Alan Franzoni is a software engineer, currently tech lead at a small italian startup in the energy sector. He's also a proud dad and a fierce graduate student at the Georgia Institute of Technology.

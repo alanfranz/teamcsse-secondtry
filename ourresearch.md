@@ -1,7 +1,7 @@
 ---
 title: Our Research
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/06/27/kyle-sudu-259392-unsplash(1).jpg"
+banner_image: "/uploads/2018/06/27/green-chameleon-21532-unsplash(1).jpg"
 heading: Our research
 sub_heading: ''
 layout: landing-page
@@ -12,6 +12,7 @@ menu:
   navigation:
     name: Our Research
     identifier: _ourresearch
+    url: "/ourresearch/"
     weight: 2
 ---
 # What's the problem?

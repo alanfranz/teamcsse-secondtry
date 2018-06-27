@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2018/06/27/janko-ferlic-174927-unsplash(1).jpg"
 layout: landing-page
 heading: Misaligned Expectations
 partners: []

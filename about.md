@@ -13,7 +13,7 @@ menu:
     name: About Us
     identifier: _about
     url: "/about/"
-    weight: 2
+    weight: 3
 ---
 Hasti Ghabel is a Software Developer at a healthcare company. Currently, she is also studying master of Computer Science at Georgia Tech. She really enjoys learning new techniques and skills in her field of study!
 

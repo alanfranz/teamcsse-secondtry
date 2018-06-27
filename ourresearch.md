@@ -12,7 +12,6 @@ menu:
   navigation:
     name: Our Research
     identifier: _ourresearch
-    url: "/ourresearch/"
     weight: 2
 ---
 # What's the problem?

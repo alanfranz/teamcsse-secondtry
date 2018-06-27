@@ -1,7 +1,7 @@
-title: Misaligned Expectations: investigating the skill gap
-short_title: Misaligned Expectations
-description: investigating the skill gap
-baseurl: 
+title: Belkirk College of Engineering
+short_title: Belkirk
+description: Belkirk Demo Site for Forestry.io
+baseurl:
 permalink: "/:path/"
 defaults:
   - scope:

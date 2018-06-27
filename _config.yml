@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: Misaligned Expectations
+short_title: Misalignedtech
+description: Investigating the tech skill gap 
 baseurl:
 permalink: "/:path/"
 defaults:

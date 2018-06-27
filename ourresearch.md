@@ -16,15 +16,14 @@ menu:
 ---
 # What's the problem?
 
-In the tech sector, something called <strong>skill gap</strong> exists. As Ray Dawson put it <a href="https://www2.seas.gwu.edu/~mlancast/cs254/ppt/p209-dawson.pdf">back in 2000</a>, <em>many employers find that graduates and sandwich students
-come  to  them  poorly  prepared  for  the  every  day  problems
-  encountered  at  the  workplace.</em>
+In the tech sector, something called **skill gap** exists. As Ray Dawson put it [back in 2000](https://www2.seas.gwu.edu/~mlancast/cs254/ppt/p209-dawson.pdf), _many employers find that graduates and sandwich students come
+to them  poorly prepared for the every day problems encountered at the workplace._
 
 Some approaches to make such gap smaller have even been attempted, but they're far from widespread.
 
-<h1>What are we trying to understand?</h1>
+# What are we trying to understand?
 
 We don't think that universities are unable to teach and train students, or that students can't learn certain skills. We suspect, instead, that students, teachers, and professionals have different ideas and expectations of what higher education should be, and we want to find out.
 
-Help us by <strong>compiling our survey<strong>, and please share it with as many people as you can!
+Help us by **filling out our survey**, and please share it with as many people as you can!
 

@@ -13,7 +13,7 @@ menu:
     name: Privacy
     identifier: _privacy
     url: "/privacy/"
-    weight: 2
+    weight: 5
 ---
 # What personal data am I giving away?
 

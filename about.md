@@ -1,7 +1,7 @@
 ---
 title: About Us
 date: 2017-11-01 03:00:00 +0000
-banner_image: ''
+banner_image: "/uploads/2018/06/27/kyle-sudu-259392-unsplash(1).jpg"
 heading: The Team
 sub_heading: ''
 layout: landing-page

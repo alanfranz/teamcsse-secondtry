@@ -76,4 +76,5 @@ fields:
   hidden: true
   default: home
 pages:
+- our-research.html
 - index.md

@@ -17,7 +17,7 @@ menu:
 ---
 # What's the problem?
 
-In the tech sector, something called **skill gap** exists. As Ray Dawson put it [back in 2000](https://www2.seas.gwu.edu/~mlancast/cs254/ppt/p209-dawson.pdf), _many employers find that graduates and sandwich students come
+In the tech sector, something called **skill gap** exists. As Ray Dawson put it [back in 2000](https://www2.seas.gwu.edu/\~mlancast/cs254/ppt/p209-dawson.pdf), _many employers find that graduates and sandwich students come
 to them  poorly prepared for the every day problems encountered at the workplace._
 
 Some approaches to make such gap smaller have even been attempted, but they're far from widespread.
@@ -28,3 +28,6 @@ We don't think that universities are unable to teach and train students, or that
 
 Help us by **filling out our survey**, and please share it with as many people as you can!
 
+# What's the scope of this research?
+
+We're researching this topic as part of the Summer 2018 term for the great \[CS6460 - Educational Technology\]([http://omscs6460.gatech.edu/summer-2018/](http://omscs6460.gatech.edu/summer-2018/ "http://omscs6460.gatech.edu/summer-2018/")) graduate class at the \[Georgia Institute of Technology\]([http://www.gatech.edu/](http://www.gatech.edu/ "http://www.gatech.edu/"))

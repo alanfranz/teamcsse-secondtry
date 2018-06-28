@@ -1,7 +1,7 @@
 ---
 title: Privacy
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/06/27/green-chameleon-21532-unsplash(1).jpg"
+banner_image: "/uploads/2018/06/28/bernard-hermant-590572-unsplash(1).jpg"
 heading: Privacy
 sub_heading: ''
 layout: landing-page

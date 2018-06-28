@@ -36,6 +36,8 @@ private systems.
 We're using Mailchimp to handle our newsletter, in order to notify you when the
 results are available. We'll delete the newsletter once we've sent the notifications.
 
+You can [unsubscribe at any time](https://misalignedtech.us2.list-manage.com/unsubscribe?u=455301d4ed2519c7d1144777d&id=2ed8cb68a9).
+
 # Cookies, analytics, etc.
 
 We're using Google Analytics to keep track of how many users visit our website,

@@ -56,3 +56,5 @@ or two updates when the results are published** - after that, the newsletter wil
 probably be deleted. We don't sell your data, we don't do marketing, we won't do anything with it.
 
 Or, you can just get back to this website in early August 2018, the results should be here by then!
+
+If you want, you can [unsubscribe at any time you like](https://misalignedtech.us2.list-manage.com/unsubscribe?u=455301d4ed2519c7d1144777d&id=2ed8cb68a9).

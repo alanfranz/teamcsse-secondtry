@@ -19,3 +19,15 @@ menu:
     url: "/"
     weight: 1
 ---
+
+What do you think about fresh graduates in the Computer Science and Software Engineering field?
+
+Are they trained for doing their job? Should they? If they aren't, why?
+
+Help us investigate those dynamics. You can read a bit more about [our research](/ourresearch/),
+[about us](/about), discover how we [care about your privacy](/privacy/), or just [subscribe](/hearback/)
+if you want to hear back from us when the research is over.
+
+But, most important: please [fill out our survey!](/fill-survey), then [share our website](#sharediv) with
+how many people you can! Coworkers, other professionals, teachers, students, we'd like to collect quite a lot
+of data on the topic!

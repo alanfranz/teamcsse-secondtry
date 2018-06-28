@@ -8,6 +8,9 @@ layout: landing-page
 textline: How are we doing this?
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: false
+hero_button:
+  text: Fill out our survey
+  href: "/fill-survey"
 menu:
   navigation:
     name: Privacy

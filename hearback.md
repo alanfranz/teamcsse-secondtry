@@ -51,7 +51,8 @@ So, if you want to know when the results of the survey will be made available, s
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
-**We swear that we'll send you just one or two updates when the results are published** - after that, the newsletter will
+Beyond the mandatory subscription confirmation emails, **we swear that we'll send you just one 
+or two updates when the results are published** - after that, the newsletter will
 probably be deleted. We don't sell your data, we don't do marketing, we won't do anything with it.
 
 Or, you can just get back to this website in early August 2018, the results should be here by then!

@@ -31,11 +31,19 @@ questions), we won't release that data to the general public, but such data may
 still be available for inspection for Georgia Tech students and instructors, on
 private systems.
 
+# Notifications for results
+
+We're using Mailchimp to handle our newsletter, in order to notify you when the
+results are available. We'll delete the newsletter once we've sent the notifications.
+
 # Cookies, analytics, etc.
 
 We're using Google Analytics to keep track of how many users visit our website,
 just to make a bit of connections between how many visits we receive and how
 many surveys get filled out. We won't use Analytics to correlate who's visiting
 the website and who took a survey in a certain instant.
+
+The retention period for Google Analytics data is 14 months, the minimum amount
+we could set it to.
 
 

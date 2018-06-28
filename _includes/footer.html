@@ -1,14 +1,14 @@
 <footer class="site-footer">
 	<div class="container pure-g">
         <div class="footer-col pure-u-1 pure-u-md-1-4">
-        </div>
-        <div class="footer-col pure-u-1 pure-u-md-1-4">
             <h3>About {{ site.short_title }}</h3>
             <ul>
             {% for item in site.menus.navigation %}
                 <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
             {% endfor %}
             </ul>
+        </div>
+        <div class="footer-col pure-u-1 pure-u-md-1-4">
         </div>
         <div class="footer-col pure-u-1 pure-u-md-1-4">
         </div>

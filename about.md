@@ -15,6 +15,8 @@ menu:
     url: "/about/"
     weight: 3
 ---
+# Hasti
 Hasti Ghabel is a Software Developer at a healthcare company. Currently, she is also studying master of Computer Science at Georgia Tech. She really enjoys learning new techniques and skills in her field of study!
 
-Alan Franzoni is a software engineer, currently tech lead at a small italian startup in the energy sector. He's also a proud dad and a fierce graduate student at the Georgia Institute of Technology.
+# Alan
+[Alan Franzoni](https://www.linkedin.com/in/alanfranzoni/) is a software engineer, currently tech lead at a small italian startup in the energy sector. He's also a proud dad and a fierce graduate student at the Georgia Institute of Technology.

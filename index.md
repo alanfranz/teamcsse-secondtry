@@ -5,7 +5,7 @@ layout: landing-page
 heading: Misaligned Expectations
 partners: []
 services: []
-sub_heading: Investigating the skill gap in the tech sector
+sub_heading: Investigating the expectation gap in the tech sector
 textline: An Educational Technology research project
 hero_button:
   text: Fill out our survey

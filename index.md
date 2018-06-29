@@ -20,9 +20,9 @@ menu:
     weight: 1
 ---
 
-What do you think about fresh graduates in the Computer Science and Software Engineering field?
+What do you think about fresh BS graduates in the Computer Science and Software Engineering field?
 
-Are they trained for doing their job? Should they? If they aren't, why?
+Are they trained for doing their career? Should they? If they aren't, why, and what could and should be done?
 
 Help us investigate those dynamics. You can read a bit more about [our research](/ourresearch/),
 [about us](/about), discover how we [care about your privacy](/privacy/), or just [subscribe](/hearback/)

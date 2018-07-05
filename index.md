@@ -9,7 +9,7 @@ sub_heading: Investigating the expectation gap in the tech sector
 textline: An Educational Technology research project
 hero_button:
   text: Fill out our survey
-  href: "/fill-survey"
+  href: "https://docs.google.com/forms/d/e/1FAIpQLSedVSVXBDakpAX7n54pZv7BBzj47tTLNg_I02Yp1fUlTxr9yw/viewform?usp=sf_link"
 show_news: false
 show_staff: false
 menu:

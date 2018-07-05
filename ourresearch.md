@@ -6,7 +6,7 @@ heading: Our research
 sub_heading: ''
 hero_button:
   text: Fill out our survey
-  href: "/fill-survey"
+  href: "https://docs.google.com/forms/d/e/1FAIpQLSedVSVXBDakpAX7n54pZv7BBzj47tTLNg_I02Yp1fUlTxr9yw/viewform?usp=sf_link"
 layout: landing-page
 textline: What are we trying to do?
 publish_date: 2017-12-01 04:00:00 +0000

@@ -28,6 +28,6 @@ Help us investigate those dynamics. You can read a bit more about [our research]
 [about us](/about), discover how we [care about your privacy](/privacy/), or just [subscribe](/hearback/)
 if you want to hear back from us when the research is over.
 
-But, most important: please [fill out our survey!](/fill-survey), then [share our website](#sharediv) with
+But, most important: please [fill out our survey!](https://docs.google.com/forms/d/e/1FAIpQLSedVSVXBDakpAX7n54pZv7BBzj47tTLNg_I02Yp1fUlTxr9yw/viewform?usp=sf_link), then [share our website](#sharediv) with
 how many people you can! Coworkers, other professionals, teachers, students, we'd like to collect quite a lot
 of data on the topic!

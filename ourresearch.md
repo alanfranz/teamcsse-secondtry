@@ -33,4 +33,4 @@ Help us by **filling out our survey**, and please share it with as many people a
 
 # What's the scope of this research?
 
-We're researching this topic as part of the Summer 2018 term for the great [CS6460 - Educational Technology](https://www.omscs.gatech.edu/cs-6460-educational-technology "CS6460 - Educational Technology") graduate class at the [Georgia Institute of Technology](http://www.gatech.edu/ "Georgia Institute of Technology").
+This is a pilot study; we're researching this topic as part of the Summer 2018 term for the great [CS6460 - Educational Technology](https://www.omscs.gatech.edu/cs-6460-educational-technology "CS6460 - Educational Technology") graduate class at the [Georgia Institute of Technology](http://www.gatech.edu/ "Georgia Institute of Technology").

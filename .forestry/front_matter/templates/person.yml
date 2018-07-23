@@ -36,3 +36,6 @@ fields:
   type: text
   hidden: true
   default: person
+pages:
+- _people/alan-franzoni.html
+- _people/hasti-ghabel.html

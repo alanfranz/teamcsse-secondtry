@@ -39,3 +39,7 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/2018-06-27-hear-back.html
+- _posts/2018-06-27-privacy.html
+- _posts/example-draft.md

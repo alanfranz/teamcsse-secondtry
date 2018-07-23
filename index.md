@@ -20,6 +20,9 @@ menu:
     weight: 1
 ---
 
+**NOTE:** we've stopped collecting answers, right now, in order to focus on our preliminary results; we may start collecting
+data again in the future.
+
 What do you think about fresh BS graduates in the Computer Science and Software Engineering field?
 
 Are they trained for doing their career? Should they? If they aren't, why, and what could and should be done?
@@ -31,3 +34,5 @@ if you want to hear back from us when the research is over.
 But, most important: please [fill out our survey!](https://docs.google.com/forms/d/e/1FAIpQLSedVSVXBDakpAX7n54pZv7BBzj47tTLNg_I02Yp1fUlTxr9yw/viewform?usp=sf_link), then [share our website](#sharediv) with
 how many people you can! Coworkers, other professionals, teachers, students, we'd like to collect quite a lot
 of data on the topic!
+
+

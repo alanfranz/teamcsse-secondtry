@@ -19,4 +19,8 @@ menu:
     weight: 5
 ---
 
+Get the [proposal](/res/Proposal.pdf)!
 Get the [paper](/res/Project_Paper.pdf)!
+Get the [data analysis script](/res/answers_pare.R)!
+Get the [plotting script](/res/plots.R)!
+Get the [raw data](/res/misaligned-20180720-inferred-categories.csv)!

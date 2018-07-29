@@ -19,4 +19,4 @@ menu:
     weight: 5
 ---
 
-Get the [paper](/img/Project_Paper.pdf)!
+Get the [paper](/res/Project_Paper.pdf)!

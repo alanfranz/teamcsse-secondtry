@@ -30,3 +30,5 @@ Get the [data analysis script](/res/answers_pare.R)!
 Get the [plotting script](/res/plots.R)!
 
 Get the [raw data](/res/misaligned-20180720-inferred-categories.csv)!
+
+See our [presentation on youtube](https://youtu.be/vM_gZB8bP0w)!

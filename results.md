@@ -20,8 +20,13 @@ menu:
 ---
 
 Get the [proposal](/res/Proposal.pdf)!
-Get all the [survey questions](/res/Misaligned_Expectations_Final_Survey.pdf)
+
+Get all the [survey questions](/res/Misaligned_Expectations_Final_Survey.pdf)!
+
 Get the [final paper](/res/Project_Paper.pdf)!
+
 Get the [data analysis script](/res/answers_pare.R)!
+
 Get the [plotting script](/res/plots.R)!
+
 Get the [raw data](/res/misaligned-20180720-inferred-categories.csv)!
